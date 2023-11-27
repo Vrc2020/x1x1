@@ -1,0 +1,52 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "chimp#0110'in namı değer temiz altyapısı.",
+  "main": "chimp.js",
+  "scripts": {
+    "watch": "nodemon chimp.js",
+    "start": "node chimp.js"
+  },
+  "dependencies": {
+    "axios": "^1.3.2",
+    "canvacord": "^5.0.7",
+    "common-tags": "^1.8.1",
+    "croxydb": "^0.0.7",
+    "currency-converter-lt": "^1.3.0",
+    "dabi-images": "^2.7.5",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^1.7.7",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "funny-words": "^0.1.2",
+    "gamedig": "^4.0.2",
+    "mathjs": "^7.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^3.2.3",
+    "nsfwjs": "^2.2.0",
+    "os": "^0.1.2",
+    "quick-db": "^1.0.5",
+    "snekfetch": "^4.0.4",
+    "steam-provider": "^0.3.2",
+    "superagent": "^7.1.1",
+    "table": "^6.8.0",
+    "user-instagram": "^3.0.1",
+    "whatwg-fetch": "^3.6.2",
+    "aki-api": "^6.0.9",
+    "opusscript": "^0.0.8",
+    "ffmpeg": "^0.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chimp",
+    "chimp#0110"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
